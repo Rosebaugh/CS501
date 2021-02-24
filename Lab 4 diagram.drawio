@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-23T20:18:06.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="uLtQpCjBvPC41cqS6RPu" version="14.4.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-24T04:09:59.319Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="C8h6kJpvtkiokRQnpJNV" version="14.4.2" type="github" pages="3">
   <diagram id="KcY03DcY3bz192sBZ2m5" name="Naive">
-    <mxGraphModel dx="1422" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,7 +128,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="heCWRNPpDRNez9IG3S86" name="Controller">
-    <mxGraphModel dx="1422" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="skRYOcLgjcljgaeTJ9sL-0" />
         <mxCell id="skRYOcLgjcljgaeTJ9sL-1" parent="skRYOcLgjcljgaeTJ9sL-0" />
@@ -288,11 +288,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0rbEwlTxYo0pF2QhfwEP" name="Delegate">
-    <mxGraphModel dx="1422" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="MtZQywThHIbtVirx73ji-0" />
         <mxCell id="MtZQywThHIbtVirx73ji-1" parent="MtZQywThHIbtVirx73ji-0" />
-        <mxCell id="0WfoIPQ11uPk6J4RXC-H-0" value="List all the subassemblies and compute the coupling ratio. Don&#39;t list the delegate-interfaces since they are &quot;connection points&quot; and not components themself. &lt;br&gt;(Note: H = Hand, D = Deck, C = Card, GC = GameController, SF = ScoreForm, MF = MainForm)&lt;br&gt;&lt;br&gt;C&lt;br&gt;D C&lt;br&gt;H C&lt;br&gt;H C D&lt;br&gt;&lt;br&gt;SF H C     (don&#39;t list Observer)&lt;br&gt;SF H C D (don&#39;t list Observer)&lt;br&gt;&lt;br&gt;Try to find more&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;C(Delegate) =&amp;nbsp; ?? subassemblies/?? classes =&amp;nbsp;&lt;br&gt;&lt;br&gt;" style="html=1;whiteSpace=wrap;shape=note;size=15;fontSize=13;fontColor=#000000;spacing=5;strokeOpacity=100;strokeWidth=1.2;align=left;" parent="MtZQywThHIbtVirx73ji-1" vertex="1">
+        <mxCell id="0WfoIPQ11uPk6J4RXC-H-0" value="List all the subassemblies and compute the coupling ratio. Don&#39;t list the delegate-interfaces since they are &quot;connection points&quot; and not components themself. &lt;br&gt;(Note: H = Hand, D = Deck, C = Card, GC = GameController, SF = ScoreForm, MF = MainForm)&lt;br&gt;&lt;br&gt;C&lt;br&gt;D C&lt;br&gt;H C&lt;br&gt;H C D&lt;br&gt;&lt;br&gt;SF H C     (don&#39;t list Observer)&lt;br&gt;SF H C D (don&#39;t list Observer)&lt;br&gt;&lt;br&gt;MF H C&amp;nbsp;&lt;br&gt;MF SF H C&lt;br&gt;MF H C D&lt;br&gt;MF SF H C D&lt;br&gt;MF H C D GC&lt;br&gt;MF SF H C D GC&lt;br&gt;&lt;br&gt;GC D C H&lt;br&gt;GC D C H SF&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Try to find more&lt;br&gt;&lt;br&gt;&lt;br&gt;C(Delegate) =&amp;nbsp; ?? subassemblies/?? classes =&amp;nbsp;&lt;br&gt;C = 14/6 = 2.3333" style="html=1;whiteSpace=wrap;shape=note;size=15;fontSize=13;fontColor=#000000;spacing=5;strokeOpacity=100;strokeWidth=1.2;align=left;" parent="MtZQywThHIbtVirx73ji-1" vertex="1">
           <mxGeometry x="720" y="-72" width="350" height="562" as="geometry" />
         </mxCell>
         <mxCell id="0WfoIPQ11uPk6J4RXC-H-1" value="GameController" style="html=1;whiteSpace=wrap;swimlane;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;startSize=23;fontSize=11;fontColor=#000000;spacing=0;strokeOpacity=100;strokeWidth=1.2;" parent="MtZQywThHIbtVirx73ji-1" vertex="1">
