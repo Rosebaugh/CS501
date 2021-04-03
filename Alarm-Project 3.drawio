@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-03T00:01:26.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="1lwiITwjDw3ndCuMbMG0" version="14.5.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-03T00:09:29.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="1rLaBJtBwWyip5IXKgXu" version="14.5.6" type="github" pages="2">
   <diagram id="-mIEmtDpmcr0Wm0IPF2-" name="Page-1">
     <mxGraphModel dx="1673" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -435,7 +435,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xqnarjvCwe8Q15bB_S_w-5" value="Console.ProgramInput" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="610" y="1153" width="350" height="320" as="geometry" />
+          <mxGeometry x="610" y="1153" width="350" height="242" as="geometry" />
         </mxCell>
         <mxCell id="xqnarjvCwe8Q15bB_S_w-6" value="- Edit: EditAlarm" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=4" parent="xqnarjvCwe8Q15bB_S_w-5" vertex="1">
           <mxGeometry y="26" width="350" height="26" as="geometry" />
@@ -455,23 +455,14 @@
         <mxCell id="xqnarjvCwe8Q15bB_S_w-8" value="- Main(string[]): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=4" parent="xqnarjvCwe8Q15bB_S_w-5" vertex="1">
           <mxGeometry y="138" width="350" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="m7e7droNr5SOKWObZKW_-9" value="+ AlarmGoesoff(Timer): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=4" vertex="1" parent="xqnarjvCwe8Q15bB_S_w-5">
+        <mxCell id="m7e7droNr5SOKWObZKW_-12" value="+ EditAlarm(int): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=4" vertex="1" parent="xqnarjvCwe8Q15bB_S_w-5">
           <mxGeometry y="164" width="350" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="m7e7droNr5SOKWObZKW_-10" value="+ UpdateList(List&lt;Timer&gt;): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=4" vertex="1" parent="xqnarjvCwe8Q15bB_S_w-5">
+        <mxCell id="m7e7droNr5SOKWObZKW_-13" value="+ EditAlarmHandler(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=4" vertex="1" parent="xqnarjvCwe8Q15bB_S_w-5">
           <mxGeometry y="190" width="350" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="m7e7droNr5SOKWObZKW_-11" value="+ UpdateScreen(string, string): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=4" vertex="1" parent="xqnarjvCwe8Q15bB_S_w-5">
-          <mxGeometry y="216" width="350" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="m7e7droNr5SOKWObZKW_-12" value="+ EditAlarm(int): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=4" vertex="1" parent="xqnarjvCwe8Q15bB_S_w-5">
-          <mxGeometry y="242" width="350" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="m7e7droNr5SOKWObZKW_-13" value="+ EditAlarmHandler(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=4" vertex="1" parent="xqnarjvCwe8Q15bB_S_w-5">
-          <mxGeometry y="268" width="350" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="m7e7droNr5SOKWObZKW_-14" value="+ StopSnoozeAlarm(string): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=4" vertex="1" parent="xqnarjvCwe8Q15bB_S_w-5">
-          <mxGeometry y="294" width="350" height="26" as="geometry" />
+          <mxGeometry y="216" width="350" height="26" as="geometry" />
         </mxCell>
         <mxCell id="4yXNOnntrVl1wwZGCkQ8-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;(Sequence Diagram) Alarm501-SD-UC&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1330" y="1570" width="430" height="20" as="geometry" />
@@ -509,10 +500,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m7e7droNr5SOKWObZKW_-23" value="Console.ProgramOutput" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="1000" width="210" height="52" as="geometry" />
+          <mxGeometry x="610" y="1030" width="210" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="m7e7droNr5SOKWObZKW_-26" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="m7e7droNr5SOKWObZKW_-23">
+        <mxCell id="m7e7droNr5SOKWObZKW_-11" value="+ UpdateScreen(string, string): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=4" vertex="1" parent="m7e7droNr5SOKWObZKW_-23">
           <mxGeometry y="26" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="m7e7droNr5SOKWObZKW_-9" value="+ AlarmGoesoff(Timer): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=4" vertex="1" parent="m7e7droNr5SOKWObZKW_-23">
+          <mxGeometry y="52" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="m7e7droNr5SOKWObZKW_-10" value="+ UpdateList(List&lt;Timer&gt;): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=4" vertex="1" parent="m7e7droNr5SOKWObZKW_-23">
+          <mxGeometry y="78" width="210" height="26" as="geometry" />
         </mxCell>
         <mxCell id="m7e7droNr5SOKWObZKW_-28" value="" style="endArrow=open;endFill=1;endSize=12;html=1;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.619;exitY=0.027;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="m7e7droNr5SOKWObZKW_-23" target="JPcZrM7MTuREyfRBJGFF-50">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -525,32 +522,38 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="m7e7droNr5SOKWObZKW_-29" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.864;exitY=1.063;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.019;entryY=-0.256;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="m7e7droNr5SOKWObZKW_-2" target="m7e7droNr5SOKWObZKW_-13">
+        <mxCell id="m7e7droNr5SOKWObZKW_-29" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.864;exitY=1.063;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m7e7droNr5SOKWObZKW_-2" target="m7e7droNr5SOKWObZKW_-14">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="550" y="1400" as="sourcePoint" />
             <mxPoint x="610" y="1310" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="559" y="1414" />
+              <mxPoint x="559" y="1390" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="m7e7droNr5SOKWObZKW_-2" value="«Delegate»&lt;br&gt;&lt;b&gt;StopSnoozeAlarm()&lt;/b&gt;" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1300" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m7e7droNr5SOKWObZKW_-30" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=-0.014;exitY=0.231;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;entryX=0.808;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="m7e7droNr5SOKWObZKW_-26" target="m7e7droNr5SOKWObZKW_-2">
+        <mxCell id="m7e7droNr5SOKWObZKW_-30" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.008;exitY=0.204;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;entryX=0.808;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="m7e7droNr5SOKWObZKW_-9" target="m7e7droNr5SOKWObZKW_-2">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="664.5999999999999" y="1135.5879999999997" as="sourcePoint" />
+            <mxPoint x="607.06" y="1032.0059999999999" as="sourcePoint" />
             <mxPoint x="445" y="1440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="550" y="1032" />
+              <mxPoint x="546" y="1087" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="m7e7droNr5SOKWObZKW_-31" value="" style="endArrow=open;endFill=1;endSize=12;html=1;entryX=0.882;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;exitX=0.496;exitY=-0.131;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="m7e7droNr5SOKWObZKW_-23" target="JPcZrM7MTuREyfRBJGFF-51">
+        <mxCell id="m7e7droNr5SOKWObZKW_-31" value="" style="endArrow=open;endFill=1;endSize=12;html=1;entryX=0.882;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;exitX=0.456;exitY=-0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="m7e7droNr5SOKWObZKW_-23" target="JPcZrM7MTuREyfRBJGFF-51">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="715" y="1076" as="sourcePoint" />
             <mxPoint x="850" y="920" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="m7e7droNr5SOKWObZKW_-32" value="F(D) = 0&lt;br&gt;M(D) = 3&lt;br&gt;H(D) = (0)/(0*3)&lt;br&gt;H(D) = 1 or UNDEF" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+          <mxGeometry x="430" y="942" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m7e7droNr5SOKWObZKW_-33" value="F(D) = 4&lt;br&gt;M(D) = 4&lt;br&gt;H(D) = (8)/(4*4)&lt;br&gt;H(D) = 0.5" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1320" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
