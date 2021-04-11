@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-11T22:50:54.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="sP-Nuo4mB143CFt4-RfY" version="14.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-11T22:51:22.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="2TxrRujKvNPUjkdi2Li_" version="14.5.6" type="github" pages="3">
   <diagram id="CrtCncVqXbif2SvVV7XM" name="Library">
     <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -73,6 +73,22 @@
         <mxCell id="gYbKi3NLedsmXsSpUkdp-11" value="+ newMember(username): bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gYbKi3NLedsmXsSpUkdp-1">
           <mxGeometry y="190" width="300" height="26" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bH4akmTM6eI08RmHQ2Mv" name="Server">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
+      <root>
+        <mxCell id="jqSv8NzDbwhojnk6cnKY-0" />
+        <mxCell id="jqSv8NzDbwhojnk6cnKY-1" parent="jqSv8NzDbwhojnk6cnKY-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QkMJ9XybakSvDeL9lgvk" name="UserChatApp">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
+      <root>
+        <mxCell id="CX3aMxcfVJOHQ4lv4evL-0" />
+        <mxCell id="CX3aMxcfVJOHQ4lv4evL-1" parent="CX3aMxcfVJOHQ4lv4evL-0" />
       </root>
     </mxGraphModel>
   </diagram>
