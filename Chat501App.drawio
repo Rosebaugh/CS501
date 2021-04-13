@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T23:20:22.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="0812tMUt6mK94GgvJPef" version="14.5.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-13T18:27:32.867Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="OXCzunSVxZ--5sleOjmS" version="14.5.6" type="github" pages="3">
   <diagram id="CrtCncVqXbif2SvVV7XM" name="Library">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,14 +73,14 @@
         <mxCell id="gYbKi3NLedsmXsSpUkdp-11" value="+ newMember(username): bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="gYbKi3NLedsmXsSpUkdp-1" vertex="1">
           <mxGeometry y="190" width="300" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="jWKpfb2sE-tTEZ_2OSZL-1" value="T04-B -&amp;gt; Caleb RoseBaugh,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Hutch Turner,&lt;br&gt;&amp;nbsp; &amp;nbsp; Laura Legg,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Bhargav Marada&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="jWKpfb2sE-tTEZ_2OSZL-1" value="T04-B -&amp;gt; Caleb RoseBaugh,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Hutch Turner,&lt;br&gt;&amp;nbsp; &amp;nbsp; Laura Legg,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Bhargav Marada&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="2590" y="40" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="bH4akmTM6eI08RmHQ2Mv" name="Server">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="jqSv8NzDbwhojnk6cnKY-0" />
         <mxCell id="jqSv8NzDbwhojnk6cnKY-1" parent="jqSv8NzDbwhojnk6cnKY-0" />
@@ -123,19 +123,43 @@
         <mxCell id="Oj51-Cz5pf_ZPWuQX2r7-11" value="+ Message(DateTime, string, String)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Oj51-Cz5pf_ZPWuQX2r7-8" vertex="1">
           <mxGeometry y="112" width="250" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="W-Ux_l3WlPw967AECY6v-0" value="T04-B -&amp;gt; Caleb RoseBaugh,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Hutch Turner,&lt;br&gt;&amp;nbsp; &amp;nbsp; Laura Legg,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Bhargav Marada&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="jqSv8NzDbwhojnk6cnKY-1">
+        <mxCell id="W-Ux_l3WlPw967AECY6v-0" value="T04-B -&amp;gt; Caleb RoseBaugh,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Hutch Turner,&lt;br&gt;&amp;nbsp; &amp;nbsp; Laura Legg,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Bhargav Marada&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="jqSv8NzDbwhojnk6cnKY-1" vertex="1">
           <mxGeometry x="2590" y="40" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="QkMJ9XybakSvDeL9lgvk" name="UserChatApp">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="CX3aMxcfVJOHQ4lv4evL-0" />
         <mxCell id="CX3aMxcfVJOHQ4lv4evL-1" parent="CX3aMxcfVJOHQ4lv4evL-0" />
-        <mxCell id="CDsw4n3K903fo400103f-0" value="T04-B -&amp;gt; Caleb RoseBaugh,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Hutch Turner,&lt;br&gt;&amp;nbsp; &amp;nbsp; Laura Legg,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Bhargav Marada&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="CX3aMxcfVJOHQ4lv4evL-1">
+        <mxCell id="CDsw4n3K903fo400103f-0" value="T04-B -&amp;gt; Caleb RoseBaugh,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Hutch Turner,&lt;br&gt;&amp;nbsp; &amp;nbsp; Laura Legg,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Bhargav Marada&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="CX3aMxcfVJOHQ4lv4evL-1" vertex="1">
           <mxGeometry x="2590" y="40" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnRimLPhHi9UIVWH3bji-0" value="ChatController" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="CX3aMxcfVJOHQ4lv4evL-1">
+          <mxGeometry x="450" y="260" width="260" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="AnRimLPhHi9UIVWH3bji-1" value="- name : string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AnRimLPhHi9UIVWH3bji-0">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="mnpAh47Gy14wd0R6PYxA-1" value="- ws : WebSocket" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AnRimLPhHi9UIVWH3bji-0">
+          <mxGeometry y="52" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AnRimLPhHi9UIVWH3bji-3" value="+ MessageRecieved : Message" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AnRimLPhHi9UIVWH3bji-0">
+          <mxGeometry y="78" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AAzexO97F8PRb5NanRmO-0" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="AnRimLPhHi9UIVWH3bji-0">
+          <mxGeometry y="104" width="260" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="AAzexO97F8PRb5NanRmO-1" value="+ ChatController(name: string)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AnRimLPhHi9UIVWH3bji-0">
+          <mxGeometry y="112" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AAzexO97F8PRb5NanRmO-2" value="+ MessagesEntered(messages: string): bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AnRimLPhHi9UIVWH3bji-0">
+          <mxGeometry y="138" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AAzexO97F8PRb5NanRmO-3" value="+ item: attribute" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AnRimLPhHi9UIVWH3bji-0">
+          <mxGeometry y="164" width="260" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
