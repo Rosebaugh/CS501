@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T19:11:18.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="kaAmcQqi_Wx4_uRsjC8I" version="14.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-13T19:18:10.899Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="ucM36zbz6jSqcCe-0jg0" version="14.6.0" type="github" pages="3">
   <diagram id="CrtCncVqXbif2SvVV7XM" name="Library">
     <mxGraphModel dx="1422" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -80,12 +80,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bH4akmTM6eI08RmHQ2Mv" name="Server">
-    <mxGraphModel dx="460" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="jqSv8NzDbwhojnk6cnKY-0" />
         <mxCell id="jqSv8NzDbwhojnk6cnKY-1" parent="jqSv8NzDbwhojnk6cnKY-0" />
+        <mxCell id="l1P0qpNtwQAPq50s5VEG-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=1;" edge="1" parent="jqSv8NzDbwhojnk6cnKY-1" source="Oj51-Cz5pf_ZPWuQX2r7-0" target="N12i9MDo1m8RrvicvaTI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Oj51-Cz5pf_ZPWuQX2r7-0" value="Chat" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="jqSv8NzDbwhojnk6cnKY-1" vertex="1">
-          <mxGeometry x="435" y="210" width="310" height="112" as="geometry" />
+          <mxGeometry x="480" y="245" width="310" height="112" as="geometry" />
         </mxCell>
         <mxCell id="Oj51-Cz5pf_ZPWuQX2r7-1" value="- Messages : List&lt;Message&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=4" parent="Oj51-Cz5pf_ZPWuQX2r7-0" vertex="1">
           <mxGeometry y="26" width="310" height="26" as="geometry" />
@@ -100,7 +103,7 @@
           <mxGeometry y="86" width="310" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Oj51-Cz5pf_ZPWuQX2r7-4" value="Echo" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="jqSv8NzDbwhojnk6cnKY-1" vertex="1">
-          <mxGeometry x="440" y="366" width="310" height="52" as="geometry" />
+          <mxGeometry x="1000" y="48" width="310" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Oj51-Cz5pf_ZPWuQX2r7-7" value="# OnMessage(MessageEventArgs) : void &lt;&lt;override&gt;&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Oj51-Cz5pf_ZPWuQX2r7-4" vertex="1">
           <mxGeometry y="26" width="310" height="26" as="geometry" />
