@@ -1,6 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T05:06:12.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="E0LzjqH_lGx3qbvw59qG" version="14.5.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-14T05:18:11.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="OvK7oG3dxqpGXKiN8XrI" version="14.5.10" type="github" pages="4">
+  <diagram id="cjej1amVZtIiL1pQSHvf" name="ALL parts">
+    <mxGraphModel dx="2370" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
+      <root>
+        <mxCell id="Q0GDuyQahfIBSUchTvks-0" />
+        <mxCell id="Q0GDuyQahfIBSUchTvks-1" parent="Q0GDuyQahfIBSUchTvks-0" />
+        <mxCell id="gK3JITXowFI62Iq5CcMT-0" value="We will basically copy and paste the 3 projects into here at the end" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="Q0GDuyQahfIBSUchTvks-1">
+          <mxGeometry x="440" y="130" width="390" height="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="CrtCncVqXbif2SvVV7XM" name="Library">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +34,7 @@
           <mxGeometry y="112" width="300" height="26" as="geometry" />
         </mxCell>
         <mxCell id="xyPF6wrKWFpmoQqZO6SA-2" value="User" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="460" y="100" width="300" height="190" as="geometry" />
+          <mxGeometry x="860" y="30" width="300" height="190" as="geometry" />
         </mxCell>
         <mxCell id="xyPF6wrKWFpmoQqZO6SA-3" value="+ DateCreated: DateTime" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="xyPF6wrKWFpmoQqZO6SA-2" vertex="1">
           <mxGeometry y="26" width="300" height="26" as="geometry" />
@@ -46,8 +57,16 @@
         <mxCell id="gYbKi3NLedsmXsSpUkdp-10" value="+ AddNewContact(string): bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="xyPF6wrKWFpmoQqZO6SA-2" vertex="1">
           <mxGeometry y="164" width="300" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="iKlDB_QBiHEo_e1gtCyf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=1;" edge="1" parent="1" source="gYbKi3NLedsmXsSpUkdp-1" target="12Cb4zVsYvBQPGdOx-LM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iKlDB_QBiHEo_e1gtCyf-5" value="Has A" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iKlDB_QBiHEo_e1gtCyf-4">
+          <mxGeometry x="0.4551" y="-4" relative="1" as="geometry">
+            <mxPoint y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gYbKi3NLedsmXsSpUkdp-1" value="Chat" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="810" y="100" width="300" height="294" as="geometry" />
+          <mxGeometry x="370" y="370" width="300" height="294" as="geometry" />
         </mxCell>
         <mxCell id="gYbKi3NLedsmXsSpUkdp-7" value="- DateCreated: DateTime" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="gYbKi3NLedsmXsSpUkdp-1" vertex="1">
           <mxGeometry y="26" width="300" height="26" as="geometry" />
@@ -84,6 +103,42 @@
         </mxCell>
         <mxCell id="jWKpfb2sE-tTEZ_2OSZL-1" value="T04-B -&amp;gt; Caleb RoseBaugh,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Hutch Turner,&lt;br&gt;&amp;nbsp; &amp;nbsp; Laura Legg,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Bhargav Marada&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="2590" y="40" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iKlDB_QBiHEo_e1gtCyf-7" value="Chat has a list of strings as having to send whole users to all members of the chat. This not only is more data being sent, it is less secure as it is unnecessarily sending passwords and usernames" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+          <mxGeometry x="700" y="380" width="410" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iKlDB_QBiHEo_e1gtCyf-8" value="Note to team members:&lt;br&gt;We should not implement a login form in here as the server is supposed to run command lines only. Log-in is only used when the server starts. The client-chat can use it multiple times" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+          <mxGeometry x="410" y="30" width="410" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iKlDB_QBiHEo_e1gtCyf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=1;" edge="1" parent="1" source="iKlDB_QBiHEo_e1gtCyf-9" target="xyPF6wrKWFpmoQqZO6SA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iKlDB_QBiHEo_e1gtCyf-9" value="Admin" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="270" width="300" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="iKlDB_QBiHEo_e1gtCyf-10" value="+ field: attribute" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="iKlDB_QBiHEo_e1gtCyf-9">
+          <mxGeometry y="26" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iKlDB_QBiHEo_e1gtCyf-14" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="iKlDB_QBiHEo_e1gtCyf-9">
+          <mxGeometry y="52" width="300" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="iKlDB_QBiHEo_e1gtCyf-17" value="+ Admin(string, string): Admin" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="iKlDB_QBiHEo_e1gtCyf-9">
+          <mxGeometry y="60" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iKlDB_QBiHEo_e1gtCyf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=1;" edge="1" parent="1" source="iKlDB_QBiHEo_e1gtCyf-18" target="xyPF6wrKWFpmoQqZO6SA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iKlDB_QBiHEo_e1gtCyf-18" value="Member" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="270" width="300" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="iKlDB_QBiHEo_e1gtCyf-19" value="+ field: Attribute" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="iKlDB_QBiHEo_e1gtCyf-18">
+          <mxGeometry y="26" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iKlDB_QBiHEo_e1gtCyf-20" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="iKlDB_QBiHEo_e1gtCyf-18">
+          <mxGeometry y="52" width="300" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="iKlDB_QBiHEo_e1gtCyf-21" value="+ Member(string, string): Member" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="iKlDB_QBiHEo_e1gtCyf-18">
+          <mxGeometry y="60" width="300" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
