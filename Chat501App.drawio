@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-18T21:57:22.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="1fLlXFVvCI13g24hPux2" version="14.6.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-04-18T22:17:08.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="eQ8a9K_HCc_ngpJcirfF" version="14.6.1" type="github" pages="4">
   <diagram id="cjej1amVZtIiL1pQSHvf" name="ALL parts">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -419,8 +419,8 @@
         </mxCell>
         <mxCell id="DVq6qtkB7Zt1e8orhzYV-0" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="JaHmQcH_Z6VXlMjI06hN-0">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="50" y="108" as="sourcePoint" />
-            <mxPoint x="269.5" y="108" as="targetPoint" />
+            <mxPoint x="50" y="116" as="sourcePoint" />
+            <mxPoint x="269.5" y="116" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DVq6qtkB7Zt1e8orhzYV-1" value="ws.Connect()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DVq6qtkB7Zt1e8orhzYV-0">
@@ -428,8 +428,30 @@
             <mxPoint x="-69" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="DVq6qtkB7Zt1e8orhzYV-6" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="JaHmQcH_Z6VXlMjI06hN-0" target="JaHmQcH_Z6VXlMjI06hN-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="50" y="170" as="sourcePoint" />
+            <mxPoint x="210" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DVq6qtkB7Zt1e8orhzYV-7" value="ws.send(name+msg)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DVq6qtkB7Zt1e8orhzYV-6">
+          <mxGeometry x="-0.2164" y="-1" relative="1" as="geometry">
+            <mxPoint x="24" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JaHmQcH_Z6VXlMjI06hN-1" value=":ChatForm" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="CX3aMxcfVJOHQ4lv4evL-1">
           <mxGeometry x="350" y="780" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="DVq6qtkB7Zt1e8orhzYV-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="JaHmQcH_Z6VXlMjI06hN-1" target="JaHmQcH_Z6VXlMjI06hN-17">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="50" y="150" as="sourcePoint" />
+            <mxPoint x="210" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DVq6qtkB7Zt1e8orhzYV-3" value="newMessageHangler(msg)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DVq6qtkB7Zt1e8orhzYV-2">
+          <mxGeometry x="-0.3351" y="-2" relative="1" as="geometry">
+            <mxPoint x="27" y="-2" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JaHmQcH_Z6VXlMjI06hN-2" value=":WebSocket" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="CX3aMxcfVJOHQ4lv4evL-1">
           <mxGeometry x="990" y="780" width="100" height="300" as="geometry" />
@@ -439,6 +461,17 @@
         </mxCell>
         <mxCell id="JaHmQcH_Z6VXlMjI06hN-17" value=":MessageEntered" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="CX3aMxcfVJOHQ4lv4evL-1">
           <mxGeometry x="540" y="780" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="DVq6qtkB7Zt1e8orhzYV-4" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="JaHmQcH_Z6VXlMjI06hN-17" target="JaHmQcH_Z6VXlMjI06hN-0">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="50" y="160" as="sourcePoint" />
+            <mxPoint x="210" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DVq6qtkB7Zt1e8orhzYV-5" value="MessageEntered(msg)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DVq6qtkB7Zt1e8orhzYV-4">
+          <mxGeometry x="-0.3028" y="1" relative="1" as="geometry">
+            <mxPoint x="40" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JaHmQcH_Z6VXlMjI06hN-18" value="Program" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="CX3aMxcfVJOHQ4lv4evL-1">
           <mxGeometry x="600" y="80" width="340" height="138" as="geometry" />
@@ -476,10 +509,10 @@
             <mxPoint x="-22" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_w4ZhJZaYMisNHg1BNkm-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="JaHmQcH_Z6VXlMjI06hN-24" target="JaHmQcH_Z6VXlMjI06hN-1">
+        <mxCell id="_w4ZhJZaYMisNHg1BNkm-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="JaHmQcH_Z6VXlMjI06hN-24">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="50" y="110" as="sourcePoint" />
-            <mxPoint x="210" y="110" as="targetPoint" />
+            <mxPoint x="50" y="129" as="sourcePoint" />
+            <mxPoint x="309.5" y="129" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_w4ZhJZaYMisNHg1BNkm-3" value="new ChatForm(name, c.MessgaeEntered)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_w4ZhJZaYMisNHg1BNkm-2">
