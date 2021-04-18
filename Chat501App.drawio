@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-18T22:25:25.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="vjrVcOGrydfF-9FKNByN" version="14.6.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-04-18T22:27:47.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="5zBL6H7P-9eoIKiHI7w_" version="14.6.1" type="github" pages="4">
   <diagram id="cjej1amVZtIiL1pQSHvf" name="ALL parts">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="Q0GDuyQahfIBSUchTvks-1" parent="Q0GDuyQahfIBSUchTvks-0" />
         <mxCell id="gK3JITXowFI62Iq5CcMT-0" value="We will basically copy and paste the 3 projects into here at the end" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="Q0GDuyQahfIBSUchTvks-1" vertex="1">
           <mxGeometry x="440" y="130" width="390" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="UDq93rwVUkaTBWhQa7RS-0" value="T04-B -&amp;gt; Caleb RoseBaugh,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Hutch Turner,&lt;br&gt;&amp;nbsp; &amp;nbsp; Laura Legg,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Bhargav Marada&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="Q0GDuyQahfIBSUchTvks-1">
+          <mxGeometry x="40" y="40" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -102,7 +105,7 @@
           <mxGeometry y="268" width="300" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jWKpfb2sE-tTEZ_2OSZL-1" value="T04-B -&amp;gt; Caleb RoseBaugh,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Hutch Turner,&lt;br&gt;&amp;nbsp; &amp;nbsp; Laura Legg,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Bhargav Marada&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2590" y="40" width="170" height="60" as="geometry" />
+          <mxGeometry x="30" y="20" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iKlDB_QBiHEo_e1gtCyf-7" value="Chat has a list of strings as having to send whole users to all members of the chat. This not only is more data being sent, it is less secure as it is unnecessarily sending passwords and usernames" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="1" vertex="1">
           <mxGeometry x="700" y="380" width="410" height="110" as="geometry" />
@@ -201,7 +204,7 @@
           <mxGeometry y="112" width="250" height="26" as="geometry" />
         </mxCell>
         <mxCell id="W-Ux_l3WlPw967AECY6v-0" value="T04-B -&amp;gt; Caleb RoseBaugh,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Hutch Turner,&lt;br&gt;&amp;nbsp; &amp;nbsp; Laura Legg,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Bhargav Marada&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="jqSv8NzDbwhojnk6cnKY-1" vertex="1">
-          <mxGeometry x="2590" y="40" width="170" height="60" as="geometry" />
+          <mxGeometry x="40" y="40" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Udw5-ql4dwk6-Pm-hZXO-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="jqSv8NzDbwhojnk6cnKY-1" target="Udw5-ql4dwk6-Pm-hZXO-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -339,12 +342,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QkMJ9XybakSvDeL9lgvk" name="UserChatApp">
-    <mxGraphModel dx="3985" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="CX3aMxcfVJOHQ4lv4evL-0" />
         <mxCell id="CX3aMxcfVJOHQ4lv4evL-1" parent="CX3aMxcfVJOHQ4lv4evL-0" />
         <mxCell id="CDsw4n3K903fo400103f-0" value="T04-B -&amp;gt; Caleb RoseBaugh,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Hutch Turner,&lt;br&gt;&amp;nbsp; &amp;nbsp; Laura Legg,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Bhargav Marada&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="CX3aMxcfVJOHQ4lv4evL-1" vertex="1">
-          <mxGeometry x="2590" y="40" width="170" height="60" as="geometry" />
+          <mxGeometry x="30" y="20" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lse8a9Zai8McpodIkWMT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" parent="CX3aMxcfVJOHQ4lv4evL-1" source="AnRimLPhHi9UIVWH3bji-0" target="lse8a9Zai8McpodIkWMT-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -356,7 +359,7 @@
         </mxCell>
         <mxCell id="NKCX6ixre7aX6ZWJ1hpO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="CX3aMxcfVJOHQ4lv4evL-1" source="AnRimLPhHi9UIVWH3bji-0" target="NKCX6ixre7aX6ZWJ1hpO-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="495" as="targetPoint" />
+            <mxPoint x="730" y="515" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NKCX6ixre7aX6ZWJ1hpO-10" value="Has a" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NKCX6ixre7aX6ZWJ1hpO-9" vertex="1" connectable="0">
@@ -365,7 +368,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AnRimLPhHi9UIVWH3bji-0" value="ChatController" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="CX3aMxcfVJOHQ4lv4evL-1" vertex="1">
-          <mxGeometry x="160" y="400" width="260" height="190" as="geometry" />
+          <mxGeometry x="290" y="420" width="260" height="190" as="geometry" />
         </mxCell>
         <mxCell id="AnRimLPhHi9UIVWH3bji-1" value="- name : string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="AnRimLPhHi9UIVWH3bji-0" vertex="1">
           <mxGeometry y="26" width="260" height="26" as="geometry" />
@@ -397,7 +400,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H5ryfK6pNBLqSikUis-4-0" value="ChatForm" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="CX3aMxcfVJOHQ4lv4evL-1" vertex="1">
-          <mxGeometry x="120" y="80" width="340" height="78" as="geometry" />
+          <mxGeometry x="250" y="100" width="340" height="78" as="geometry" />
         </mxCell>
         <mxCell id="H5ryfK6pNBLqSikUis-4-1" value="+ ChatForm(name: string, newMessageHandler: Message)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="H5ryfK6pNBLqSikUis-4-0" vertex="1">
           <mxGeometry y="26" width="340" height="26" as="geometry" />
@@ -406,16 +409,16 @@
           <mxGeometry y="52" width="340" height="26" as="geometry" />
         </mxCell>
         <mxCell id="lse8a9Zai8McpodIkWMT-0" value="«Delegate»&lt;br&gt;&lt;b&gt;MessageEntered(String):bool&lt;/b&gt;" style="html=1;" parent="CX3aMxcfVJOHQ4lv4evL-1" vertex="1">
-          <mxGeometry x="150" y="250" width="280" height="50" as="geometry" />
+          <mxGeometry x="280" y="270" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NKCX6ixre7aX6ZWJ1hpO-14" value="«Library»&lt;br&gt;&lt;b&gt;WebSocket&lt;/b&gt;" style="html=1;" parent="CX3aMxcfVJOHQ4lv4evL-1" vertex="1">
-          <mxGeometry x="600" y="470" width="140" height="50" as="geometry" />
+          <mxGeometry x="730" y="490" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="B-ASK2A7rRQQLgrhfMY0-0" value="&lt;font style=&quot;font-size: 20px&quot;&gt;MVC Diagram for Client Side&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1" vertex="1" parent="CX3aMxcfVJOHQ4lv4evL-1">
-          <mxGeometry x="380" y="40" width="290" height="20" as="geometry" />
+          <mxGeometry x="540" y="60" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JaHmQcH_Z6VXlMjI06hN-0" value=":ChatController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="CX3aMxcfVJOHQ4lv4evL-1">
-          <mxGeometry x="770" y="780" width="100" height="300" as="geometry" />
+          <mxGeometry x="810" y="780" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="DVq6qtkB7Zt1e8orhzYV-0" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="JaHmQcH_Z6VXlMjI06hN-0">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -451,7 +454,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JaHmQcH_Z6VXlMjI06hN-1" value=":ChatForm" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="CX3aMxcfVJOHQ4lv4evL-1">
-          <mxGeometry x="370" y="780" width="100" height="300" as="geometry" />
+          <mxGeometry x="410" y="780" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="DVq6qtkB7Zt1e8orhzYV-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="JaHmQcH_Z6VXlMjI06hN-1" target="JaHmQcH_Z6VXlMjI06hN-17">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -465,13 +468,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JaHmQcH_Z6VXlMjI06hN-2" value=":WebSocket" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="CX3aMxcfVJOHQ4lv4evL-1">
-          <mxGeometry x="990" y="780" width="100" height="300" as="geometry" />
+          <mxGeometry x="1030" y="780" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="JaHmQcH_Z6VXlMjI06hN-16" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Sequence Diagram for Client Side&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1" vertex="1" parent="CX3aMxcfVJOHQ4lv4evL-1">
-          <mxGeometry x="310" y="720" width="340" height="20" as="geometry" />
+          <mxGeometry x="490" y="720" width="340" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JaHmQcH_Z6VXlMjI06hN-17" value=":MessageEntered" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="CX3aMxcfVJOHQ4lv4evL-1">
-          <mxGeometry x="570" y="780" width="100" height="300" as="geometry" />
+          <mxGeometry x="610" y="780" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="DVq6qtkB7Zt1e8orhzYV-4" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="JaHmQcH_Z6VXlMjI06hN-17" target="JaHmQcH_Z6VXlMjI06hN-0">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -485,7 +488,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JaHmQcH_Z6VXlMjI06hN-18" value="Program" style="swimlane;fontStyle=5;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="CX3aMxcfVJOHQ4lv4evL-1">
-          <mxGeometry x="600" y="80" width="340" height="104" as="geometry" />
+          <mxGeometry x="730" y="100" width="340" height="104" as="geometry" />
         </mxCell>
         <mxCell id="JaHmQcH_Z6VXlMjI06hN-22" value="- GetName() : string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=4" vertex="1" parent="JaHmQcH_Z6VXlMjI06hN-18">
           <mxGeometry y="26" width="340" height="26" as="geometry" />
@@ -497,7 +500,7 @@
           <mxGeometry y="78" width="340" height="26" as="geometry" />
         </mxCell>
         <mxCell id="JaHmQcH_Z6VXlMjI06hN-24" value=":Program" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="CX3aMxcfVJOHQ4lv4evL-1">
-          <mxGeometry x="90" y="780" width="100" height="300" as="geometry" />
+          <mxGeometry x="130" y="780" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="JaHmQcH_Z6VXlMjI06hN-25" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="JaHmQcH_Z6VXlMjI06hN-24">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -527,8 +530,8 @@
         </mxCell>
         <mxCell id="_w4ZhJZaYMisNHg1BNkm-0" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="CX3aMxcfVJOHQ4lv4evL-1" source="JaHmQcH_Z6VXlMjI06hN-24">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="149.92857142857144" y="875" as="sourcePoint" />
-            <mxPoint x="819.5" y="875" as="targetPoint" />
+            <mxPoint x="189.92857142857144" y="875" as="sourcePoint" />
+            <mxPoint x="859.5" y="875" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_w4ZhJZaYMisNHg1BNkm-1" value="&lt;font style=&quot;font-size: 12px&quot;&gt;1.1 new ChatController(name)&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_w4ZhJZaYMisNHg1BNkm-0">
@@ -538,12 +541,12 @@
         </mxCell>
         <mxCell id="DVq6qtkB7Zt1e8orhzYV-10" value="" style="endArrow=open;endFill=1;endSize=12;html=1;entryX=0.5;entryY=0.733;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="CX3aMxcfVJOHQ4lv4evL-1" source="JaHmQcH_Z6VXlMjI06hN-1" target="JaHmQcH_Z6VXlMjI06hN-1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="340" y="1020" as="sourcePoint" />
-            <mxPoint x="400" y="990" as="targetPoint" />
+            <mxPoint x="380" y="1020" as="sourcePoint" />
+            <mxPoint x="440" y="990" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="380" y="970" />
-              <mxPoint x="360" y="970" />
-              <mxPoint x="360" y="1000" />
+              <mxPoint x="420" y="970" />
+              <mxPoint x="400" y="970" />
+              <mxPoint x="400" y="1000" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -553,7 +556,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DVq6qtkB7Zt1e8orhzYV-15" value="(On ~ChatController)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="CX3aMxcfVJOHQ4lv4evL-1">
-          <mxGeometry x="814" y="1014" width="130" height="20" as="geometry" />
+          <mxGeometry x="854" y="1014" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
