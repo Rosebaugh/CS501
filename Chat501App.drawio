@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T21:11:29.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="8nXLMwCYDVEd9UE32YMs" version="14.6.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-04-19T21:23:11.292Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="JHSu7oTPZrjBTIplItCG" version="14.6.3" type="github" pages="4">
   <diagram id="cjej1amVZtIiL1pQSHvf" name="ALL parts">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -161,7 +161,7 @@
         <mxCell id="dKNUrngRWBvQokEQh7yf-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1190" y="480" width="530" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="dKNUrngRWBvQokEQh7yf-3" value="&lt;p style=&quot;line-height: 60%&quot;&gt;&lt;/p&gt;&lt;h1&gt;Coupling Ratio&lt;/h1&gt;&lt;p&gt;N(D) = 5 (InputForm [I], OutputForm [O], Timers [T[, Controller [C] and AddEdit Alarm [A])&lt;/p&gt;&lt;p&gt;A, O, T, I&lt;/p&gt;&lt;p&gt;CT, AO, AT, AI, OT, OI, TI&lt;/p&gt;&lt;p&gt;CTA. CTO, CTI,&amp;nbsp; AOT, AOI, ATI, OTI,&lt;/p&gt;&lt;p&gt;CTAO, CTAI, CTOI, AOTI&lt;/p&gt;&lt;p&gt;AOTIC&lt;/p&gt;&lt;p&gt;SD = 23&lt;/p&gt;&lt;p&gt;C(D) =&amp;nbsp;&lt;span&gt;Coupling Ratio = S(D)/N(D) = 23/5 = 4.6&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dKNUrngRWBvQokEQh7yf-3" value="&lt;p style=&quot;line-height: 60%&quot;&gt;&lt;/p&gt;&lt;h1&gt;Coupling Ratio&lt;/h1&gt;&lt;p&gt;N(D) =&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span&gt;SD =&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;C(D) =&amp;nbsp;&lt;span&gt;Coupling Ratio = S(D)/N(D) =&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1215" y="510" width="495" height="270" as="geometry" />
         </mxCell>
       </root>
@@ -359,11 +359,11 @@
         <mxCell id="YQWCWjibj8ZiUMjzBvbE-1" value="F(D) = 1&lt;br&gt;M(D) = 2&lt;br&gt;H(D) = (2)/(2*1)&lt;br&gt;H(D) = 1" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="jqSv8NzDbwhojnk6cnKY-1" vertex="1">
           <mxGeometry x="540" y="430" width="110.00000000000001" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U4WFM_QE2XXXOupw46mj-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jqSv8NzDbwhojnk6cnKY-1">
-          <mxGeometry x="1170" y="170" width="530" height="350" as="geometry" />
+        <mxCell id="XqPx6_aHY9dl-Hkas9x_-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jqSv8NzDbwhojnk6cnKY-1">
+          <mxGeometry x="1140" y="210" width="530" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="U4WFM_QE2XXXOupw46mj-1" value="&lt;p style=&quot;line-height: 60%&quot;&gt;&lt;/p&gt;&lt;h1&gt;Coupling Ratio&lt;/h1&gt;&lt;p&gt;N(D) = 5 (InputForm [I], OutputForm [O], Timers [T[, Controller [C] and AddEdit Alarm [A])&lt;/p&gt;&lt;p&gt;A, O, T, I&lt;/p&gt;&lt;p&gt;CT, AO, AT, AI, OT, OI, TI&lt;/p&gt;&lt;p&gt;CTA. CTO, CTI,&amp;nbsp; AOT, AOI, ATI, OTI,&lt;/p&gt;&lt;p&gt;CTAO, CTAI, CTOI, AOTI&lt;/p&gt;&lt;p&gt;AOTIC&lt;/p&gt;&lt;p&gt;SD = 23&lt;/p&gt;&lt;p&gt;C(D) =&amp;nbsp;&lt;span&gt;Coupling Ratio = S(D)/N(D) = 23/5 = 4.6&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="jqSv8NzDbwhojnk6cnKY-1">
-          <mxGeometry x="1195" y="200" width="495" height="270" as="geometry" />
+        <mxCell id="XqPx6_aHY9dl-Hkas9x_-1" value="&lt;p style=&quot;line-height: 60%&quot;&gt;&lt;/p&gt;&lt;h1&gt;Coupling Ratio&lt;/h1&gt;&lt;p&gt;N(D) =&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span&gt;SD =&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;C(D) =&amp;nbsp;&lt;span&gt;Coupling Ratio = S(D)/N(D) =&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="jqSv8NzDbwhojnk6cnKY-1">
+          <mxGeometry x="1165" y="240" width="495" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -656,11 +656,11 @@
         <mxCell id="2f7CU6wNLr1MNi3N3wOY-2" value="F(D) = 0&lt;br&gt;M(D) = 3&lt;br&gt;H(D) = (0)/(0*3)&lt;br&gt;H(D) = 1 or UNDEF" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="CX3aMxcfVJOHQ4lv4evL-1" vertex="1">
           <mxGeometry x="1100" y="112" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="j4CzYYvDKYI2rGhZrScq-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CX3aMxcfVJOHQ4lv4evL-1">
-          <mxGeometry x="1340" y="120" width="530" height="350" as="geometry" />
+        <mxCell id="JCMDMaZjwdXbA048hPMe-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CX3aMxcfVJOHQ4lv4evL-1">
+          <mxGeometry x="1000" y="250" width="530" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="j4CzYYvDKYI2rGhZrScq-1" value="&lt;p style=&quot;line-height: 60%&quot;&gt;&lt;/p&gt;&lt;h1&gt;Coupling Ratio&lt;/h1&gt;&lt;p&gt;N(D) = 5 (InputForm [I], OutputForm [O], Timers [T[, Controller [C] and AddEdit Alarm [A])&lt;/p&gt;&lt;p&gt;A, O, T, I&lt;/p&gt;&lt;p&gt;CT, AO, AT, AI, OT, OI, TI&lt;/p&gt;&lt;p&gt;CTA. CTO, CTI,&amp;nbsp; AOT, AOI, ATI, OTI,&lt;/p&gt;&lt;p&gt;CTAO, CTAI, CTOI, AOTI&lt;/p&gt;&lt;p&gt;AOTIC&lt;/p&gt;&lt;p&gt;SD = 23&lt;/p&gt;&lt;p&gt;C(D) =&amp;nbsp;&lt;span&gt;Coupling Ratio = S(D)/N(D) = 23/5 = 4.6&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="CX3aMxcfVJOHQ4lv4evL-1">
-          <mxGeometry x="1365" y="150" width="495" height="270" as="geometry" />
+        <mxCell id="JCMDMaZjwdXbA048hPMe-1" value="&lt;p style=&quot;line-height: 60%&quot;&gt;&lt;/p&gt;&lt;h1&gt;Coupling Ratio&lt;/h1&gt;&lt;p&gt;N(D) =&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span&gt;SD =&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;C(D) =&amp;nbsp;&lt;span&gt;Coupling Ratio = S(D)/N(D) =&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="CX3aMxcfVJOHQ4lv4evL-1">
+          <mxGeometry x="1025" y="280" width="495" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
