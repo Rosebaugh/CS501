@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T20:02:51.337Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="AtKUFgeZfiqqbmOz4qL9" version="14.6.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-04-19T20:07:03.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="PGE9QVMkAkIw6T6LFgDI" version="14.6.1" type="github" pages="4">
   <diagram id="cjej1amVZtIiL1pQSHvf" name="ALL parts">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -108,7 +108,7 @@
           <mxGeometry x="30" y="20" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iKlDB_QBiHEo_e1gtCyf-7" value="Chat has a list of strings as having to send whole users to all members of the chat. This not only is more data being sent, it is less secure as it is unnecessarily sending passwords and usernames" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="1" vertex="1">
-          <mxGeometry x="700" y="380" width="410" height="110" as="geometry" />
+          <mxGeometry x="700" y="554" width="410" height="110" as="geometry" />
         </mxCell>
         <mxCell id="iKlDB_QBiHEo_e1gtCyf-8" value="Note to team members:&lt;br&gt;We should not implement a login form in here as the server is supposed to run command lines only. Log-in is only used when the server starts. The client-chat can use it multiple times" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="1" vertex="1">
           <mxGeometry x="410" y="30" width="410" height="110" as="geometry" />
@@ -142,6 +142,21 @@
         </mxCell>
         <mxCell id="iKlDB_QBiHEo_e1gtCyf-21" value="+ Member(string, string): Member" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="iKlDB_QBiHEo_e1gtCyf-18" vertex="1">
           <mxGeometry y="60" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="tEQAfAT6FzM8a5rz4jgR-1" value="F(D) = 3&lt;br&gt;M(D) = 1&lt;br&gt;H(D) = (1+1+1)/(3*1)&lt;br&gt;H(D) = 1" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+          <mxGeometry x="70" y="270" width="110.00000000000001" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tEQAfAT6FzM8a5rz4jgR-2" value="F(D) = 3&lt;br&gt;M(D) = 7&lt;br&gt;H(D) = (???)/(3*7)&lt;br&gt;H(D) = TBD" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+          <mxGeometry x="240" y="530" width="110.00000000000001" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tEQAfAT6FzM8a5rz4jgR-3" value="F(D) = 4&lt;br&gt;M(D) = 2&lt;br&gt;H(D) = (???)/(4*2)&lt;br&gt;H(D) = TBD" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="30" width="110.00000000000001" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tEQAfAT6FzM8a5rz4jgR-4" value="F(D) = TBD&lt;br&gt;M(D) = TBD&lt;br&gt;H(D) = (???)/(???)&lt;br&gt;H(D) = TBD" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+          <mxGeometry x="870" y="370" width="110.00000000000001" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tEQAfAT6FzM8a5rz4jgR-5" value="F(D) = TBD&lt;br&gt;M(D) = TBD&lt;br&gt;H(D) = (???)/(???)&lt;br&gt;H(D) = TBD" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="370" width="110.00000000000001" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
