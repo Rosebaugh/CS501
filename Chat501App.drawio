@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T20:07:03.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="PGE9QVMkAkIw6T6LFgDI" version="14.6.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-04-19T21:11:29.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="8nXLMwCYDVEd9UE32YMs" version="14.6.3" type="github" pages="4">
   <diagram id="cjej1amVZtIiL1pQSHvf" name="ALL parts">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -143,20 +143,26 @@
         <mxCell id="iKlDB_QBiHEo_e1gtCyf-21" value="+ Member(string, string): Member" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="iKlDB_QBiHEo_e1gtCyf-18" vertex="1">
           <mxGeometry y="60" width="300" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="tEQAfAT6FzM8a5rz4jgR-1" value="F(D) = 3&lt;br&gt;M(D) = 1&lt;br&gt;H(D) = (1+1+1)/(3*1)&lt;br&gt;H(D) = 1" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+        <mxCell id="tEQAfAT6FzM8a5rz4jgR-1" value="F(D) = 3&lt;br&gt;M(D) = 1&lt;br&gt;H(D) = (1+1+1)/(3*1)&lt;br&gt;H(D) = 1" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="1" vertex="1">
           <mxGeometry x="70" y="270" width="110.00000000000001" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tEQAfAT6FzM8a5rz4jgR-2" value="F(D) = 3&lt;br&gt;M(D) = 7&lt;br&gt;H(D) = (???)/(3*7)&lt;br&gt;H(D) = TBD" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+        <mxCell id="tEQAfAT6FzM8a5rz4jgR-2" value="F(D) = 3&lt;br&gt;M(D) = 7&lt;br&gt;H(D) = (???)/(3*7)&lt;br&gt;H(D) = TBD" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="1" vertex="1">
           <mxGeometry x="240" y="530" width="110.00000000000001" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tEQAfAT6FzM8a5rz4jgR-3" value="F(D) = 4&lt;br&gt;M(D) = 2&lt;br&gt;H(D) = (???)/(4*2)&lt;br&gt;H(D) = TBD" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+        <mxCell id="tEQAfAT6FzM8a5rz4jgR-3" value="F(D) = 4&lt;br&gt;M(D) = 2&lt;br&gt;H(D) = (???)/(4*2)&lt;br&gt;H(D) = TBD" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="1" vertex="1">
           <mxGeometry x="1180" y="30" width="110.00000000000001" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tEQAfAT6FzM8a5rz4jgR-4" value="F(D) = TBD&lt;br&gt;M(D) = TBD&lt;br&gt;H(D) = (???)/(???)&lt;br&gt;H(D) = TBD" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+        <mxCell id="tEQAfAT6FzM8a5rz4jgR-4" value="F(D) = TBD&lt;br&gt;M(D) = TBD&lt;br&gt;H(D) = (???)/(???)&lt;br&gt;H(D) = TBD" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="1" vertex="1">
           <mxGeometry x="870" y="370" width="110.00000000000001" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tEQAfAT6FzM8a5rz4jgR-5" value="F(D) = TBD&lt;br&gt;M(D) = TBD&lt;br&gt;H(D) = (???)/(???)&lt;br&gt;H(D) = TBD" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+        <mxCell id="tEQAfAT6FzM8a5rz4jgR-5" value="F(D) = TBD&lt;br&gt;M(D) = TBD&lt;br&gt;H(D) = (???)/(???)&lt;br&gt;H(D) = TBD" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="1" vertex="1">
           <mxGeometry x="1050" y="370" width="110.00000000000001" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dKNUrngRWBvQokEQh7yf-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="480" width="530" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="dKNUrngRWBvQokEQh7yf-3" value="&lt;p style=&quot;line-height: 60%&quot;&gt;&lt;/p&gt;&lt;h1&gt;Coupling Ratio&lt;/h1&gt;&lt;p&gt;N(D) = 5 (InputForm [I], OutputForm [O], Timers [T[, Controller [C] and AddEdit Alarm [A])&lt;/p&gt;&lt;p&gt;A, O, T, I&lt;/p&gt;&lt;p&gt;CT, AO, AT, AI, OT, OI, TI&lt;/p&gt;&lt;p&gt;CTA. CTO, CTI,&amp;nbsp; AOT, AOI, ATI, OTI,&lt;/p&gt;&lt;p&gt;CTAO, CTAI, CTOI, AOTI&lt;/p&gt;&lt;p&gt;AOTIC&lt;/p&gt;&lt;p&gt;SD = 23&lt;/p&gt;&lt;p&gt;C(D) =&amp;nbsp;&lt;span&gt;Coupling Ratio = S(D)/N(D) = 23/5 = 4.6&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="510" width="495" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -347,11 +353,17 @@
         <mxCell id="XCrTqLcqxqpDc7WhqWfj-20" value="&lt;font style=&quot;font-size: 20px&quot;&gt;MVC Diagram for Server Side&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1" parent="jqSv8NzDbwhojnk6cnKY-1" vertex="1">
           <mxGeometry x="460" y="210" width="290" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YQWCWjibj8ZiUMjzBvbE-0" value="F(D) = 3&lt;br&gt;M(D) = 1&lt;br&gt;H(D) = (1+1+1)/(3*1)&lt;br&gt;H(D) = 1" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="jqSv8NzDbwhojnk6cnKY-1">
+        <mxCell id="YQWCWjibj8ZiUMjzBvbE-0" value="F(D) = 3&lt;br&gt;M(D) = 1&lt;br&gt;H(D) = (1+1+1)/(3*1)&lt;br&gt;H(D) = 1" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="jqSv8NzDbwhojnk6cnKY-1" vertex="1">
           <mxGeometry x="80" y="430" width="110.00000000000001" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YQWCWjibj8ZiUMjzBvbE-1" value="F(D) = 1&lt;br&gt;M(D) = 2&lt;br&gt;H(D) = (2)/(2*1)&lt;br&gt;H(D) = 1" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="jqSv8NzDbwhojnk6cnKY-1">
+        <mxCell id="YQWCWjibj8ZiUMjzBvbE-1" value="F(D) = 1&lt;br&gt;M(D) = 2&lt;br&gt;H(D) = (2)/(2*1)&lt;br&gt;H(D) = 1" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="jqSv8NzDbwhojnk6cnKY-1" vertex="1">
           <mxGeometry x="540" y="430" width="110.00000000000001" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U4WFM_QE2XXXOupw46mj-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jqSv8NzDbwhojnk6cnKY-1">
+          <mxGeometry x="1170" y="170" width="530" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="U4WFM_QE2XXXOupw46mj-1" value="&lt;p style=&quot;line-height: 60%&quot;&gt;&lt;/p&gt;&lt;h1&gt;Coupling Ratio&lt;/h1&gt;&lt;p&gt;N(D) = 5 (InputForm [I], OutputForm [O], Timers [T[, Controller [C] and AddEdit Alarm [A])&lt;/p&gt;&lt;p&gt;A, O, T, I&lt;/p&gt;&lt;p&gt;CT, AO, AT, AI, OT, OI, TI&lt;/p&gt;&lt;p&gt;CTA. CTO, CTI,&amp;nbsp; AOT, AOI, ATI, OTI,&lt;/p&gt;&lt;p&gt;CTAO, CTAI, CTOI, AOTI&lt;/p&gt;&lt;p&gt;AOTIC&lt;/p&gt;&lt;p&gt;SD = 23&lt;/p&gt;&lt;p&gt;C(D) =&amp;nbsp;&lt;span&gt;Coupling Ratio = S(D)/N(D) = 23/5 = 4.6&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="jqSv8NzDbwhojnk6cnKY-1">
+          <mxGeometry x="1195" y="200" width="495" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -635,14 +647,20 @@
             <mxPoint x="910" y="1410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2f7CU6wNLr1MNi3N3wOY-0" value="F(D) = 0&lt;br&gt;M(D) = 2&lt;br&gt;H(D) = (0)/(0*2)&lt;br&gt;H(D) = 1 or UNDEF" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="CX3aMxcfVJOHQ4lv4evL-1">
+        <mxCell id="2f7CU6wNLr1MNi3N3wOY-0" value="F(D) = 0&lt;br&gt;M(D) = 2&lt;br&gt;H(D) = (0)/(0*2)&lt;br&gt;H(D) = 1 or UNDEF" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="CX3aMxcfVJOHQ4lv4evL-1" vertex="1">
           <mxGeometry x="100" y="100" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2f7CU6wNLr1MNi3N3wOY-1" value="F(D) = 3&lt;br&gt;M(D) = 3&lt;br&gt;H(D) = (2+3+1)/(3*3)&lt;br&gt;H(D) = .66667" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="CX3aMxcfVJOHQ4lv4evL-1">
+        <mxCell id="2f7CU6wNLr1MNi3N3wOY-1" value="F(D) = 3&lt;br&gt;M(D) = 3&lt;br&gt;H(D) = (2+3+1)/(3*3)&lt;br&gt;H(D) = .66667" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="CX3aMxcfVJOHQ4lv4evL-1" vertex="1">
           <mxGeometry x="110" y="475" width="110.00000000000001" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2f7CU6wNLr1MNi3N3wOY-2" value="F(D) = 0&lt;br&gt;M(D) = 3&lt;br&gt;H(D) = (0)/(0*3)&lt;br&gt;H(D) = 1 or UNDEF" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="CX3aMxcfVJOHQ4lv4evL-1">
+        <mxCell id="2f7CU6wNLr1MNi3N3wOY-2" value="F(D) = 0&lt;br&gt;M(D) = 3&lt;br&gt;H(D) = (0)/(0*3)&lt;br&gt;H(D) = 1 or UNDEF" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="CX3aMxcfVJOHQ4lv4evL-1" vertex="1">
           <mxGeometry x="1100" y="112" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j4CzYYvDKYI2rGhZrScq-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CX3aMxcfVJOHQ4lv4evL-1">
+          <mxGeometry x="1340" y="120" width="530" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="j4CzYYvDKYI2rGhZrScq-1" value="&lt;p style=&quot;line-height: 60%&quot;&gt;&lt;/p&gt;&lt;h1&gt;Coupling Ratio&lt;/h1&gt;&lt;p&gt;N(D) = 5 (InputForm [I], OutputForm [O], Timers [T[, Controller [C] and AddEdit Alarm [A])&lt;/p&gt;&lt;p&gt;A, O, T, I&lt;/p&gt;&lt;p&gt;CT, AO, AT, AI, OT, OI, TI&lt;/p&gt;&lt;p&gt;CTA. CTO, CTI,&amp;nbsp; AOT, AOI, ATI, OTI,&lt;/p&gt;&lt;p&gt;CTAO, CTAI, CTOI, AOTI&lt;/p&gt;&lt;p&gt;AOTIC&lt;/p&gt;&lt;p&gt;SD = 23&lt;/p&gt;&lt;p&gt;C(D) =&amp;nbsp;&lt;span&gt;Coupling Ratio = S(D)/N(D) = 23/5 = 4.6&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="CX3aMxcfVJOHQ4lv4evL-1">
+          <mxGeometry x="1365" y="150" width="495" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
