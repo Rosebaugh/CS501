@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-20T23:22:27.488Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="YbTsoxTYavIkE9ci7mdi" version="14.6.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-04-20T23:22:46.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="sQ5-VIqtcRl3uJiNqBtd" version="14.6.3" type="github" pages="4">
   <diagram id="cjej1amVZtIiL1pQSHvf" name="ALL parts">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -586,7 +586,7 @@
             <mxPoint x="1" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xf2kcutXMbMdljYPR8I8-7" value="«Delegate»&lt;br&gt;&lt;b&gt;removeContact(String):bool&lt;/b&gt;" style="html=1;" vertex="1" parent="Q0GDuyQahfIBSUchTvks-1">
+        <mxCell id="Xf2kcutXMbMdljYPR8I8-7" value="«Delegate»&lt;br&gt;&lt;b&gt;removeContact(String):void&lt;/b&gt;" style="html=1;" vertex="1" parent="Q0GDuyQahfIBSUchTvks-1">
           <mxGeometry x="180" y="984" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Xf2kcutXMbMdljYPR8I8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Q0GDuyQahfIBSUchTvks-1" target="Xf2kcutXMbMdljYPR8I8-12" source="eozLQNMYBbca70q0BzBk-5">
@@ -609,7 +609,7 @@
             <mxPoint x="1" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xf2kcutXMbMdljYPR8I8-12" value="«Delegate»&lt;br&gt;&lt;b&gt;AddContact(String):&lt;/b&gt;" style="html=1;" vertex="1" parent="Q0GDuyQahfIBSUchTvks-1">
+        <mxCell id="Xf2kcutXMbMdljYPR8I8-12" value="«Delegate»&lt;br&gt;&lt;b&gt;AddContact(String):void&lt;/b&gt;" style="html=1;" vertex="1" parent="Q0GDuyQahfIBSUchTvks-1">
           <mxGeometry x="30" y="984" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
