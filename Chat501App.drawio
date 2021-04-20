@@ -1,14 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2021-04-20T18:23:14.792Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="16FeGHNPe3KD8xqkQOv_" version="14.6.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-04-20T19:07:39.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="lPGPP8iwxYGBHzYl_36u" version="14.6.3" type="github" pages="4">
   <diagram id="cjej1amVZtIiL1pQSHvf" name="ALL parts">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="4740" dy="2540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="Q0GDuyQahfIBSUchTvks-0" />
         <mxCell id="Q0GDuyQahfIBSUchTvks-1" parent="Q0GDuyQahfIBSUchTvks-0" />
-        <mxCell id="gK3JITXowFI62Iq5CcMT-0" value="We will basically copy and paste the 3 projects into here at the end" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="Q0GDuyQahfIBSUchTvks-1" vertex="1">
-          <mxGeometry x="440" y="130" width="390" height="300" as="geometry" />
-        </mxCell>
         <mxCell id="UDq93rwVUkaTBWhQa7RS-0" value="T04-B -&amp;gt; Caleb RoseBaugh,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Hutch Turner,&lt;br&gt;&amp;nbsp; &amp;nbsp; Laura Legg,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Bhargav Marada&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="Q0GDuyQahfIBSUchTvks-1" vertex="1">
           <mxGeometry x="40" y="40" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5nmN92uF_jekfmkXPWef-0" value="&lt;font style=&quot;font-size: 120px&quot;&gt;CD&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Q0GDuyQahfIBSUchTvks-1">
+          <mxGeometry x="80" y="1920" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5nmN92uF_jekfmkXPWef-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q0GDuyQahfIBSUchTvks-1">
+          <mxGeometry x="180" y="130" width="2430" height="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="5nmN92uF_jekfmkXPWef-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q0GDuyQahfIBSUchTvks-1">
+          <mxGeometry x="180" y="130" width="810" height="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="5nmN92uF_jekfmkXPWef-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q0GDuyQahfIBSUchTvks-1">
+          <mxGeometry x="987.5" y="130" width="815" height="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="5nmN92uF_jekfmkXPWef-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q0GDuyQahfIBSUchTvks-1">
+          <mxGeometry x="1800" y="130" width="810" height="1650" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -369,7 +381,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QkMJ9XybakSvDeL9lgvk" name="UserChatApp">
-    <mxGraphModel dx="3555" dy="1905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="CX3aMxcfVJOHQ4lv4evL-0" />
         <mxCell id="CX3aMxcfVJOHQ4lv4evL-1" parent="CX3aMxcfVJOHQ4lv4evL-0" />
