@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-20T23:22:46.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="sQ5-VIqtcRl3uJiNqBtd" version="14.6.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-04-20T23:23:21.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="57P-FQte9WtggQfYR5n1" version="14.6.3" type="github" pages="4">
   <diagram id="cjej1amVZtIiL1pQSHvf" name="ALL parts">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="2844" dy="1524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="Q0GDuyQahfIBSUchTvks-0" />
         <mxCell id="Q0GDuyQahfIBSUchTvks-1" parent="Q0GDuyQahfIBSUchTvks-0" />
@@ -98,7 +98,7 @@
           <mxGeometry x="1380" y="1200" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eozLQNMYBbca70q0BzBk-19" value="&lt;font style=&quot;font-size: 20px&quot;&gt;MVC Diagram for Client Side&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1" parent="Q0GDuyQahfIBSUchTvks-1" vertex="1">
-          <mxGeometry x="380" y="770" width="290" height="20" as="geometry" />
+          <mxGeometry x="250" y="640" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ppnC8eKDTMyvoCilThMU-3" value="ChatController" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="Q0GDuyQahfIBSUchTvks-1" vertex="1">
           <mxGeometry x="2330" y="1100" width="310" height="216" as="geometry" />
@@ -128,7 +128,7 @@
           <mxGeometry y="190" width="310" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ppnC8eKDTMyvoCilThMU-20" value="&lt;font style=&quot;font-size: 20px&quot;&gt;MVC Diagram for Server Side&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1" parent="Q0GDuyQahfIBSUchTvks-1" vertex="1">
-          <mxGeometry x="2340" y="1030" width="290" height="20" as="geometry" />
+          <mxGeometry x="2330" y="630" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CPX_3aVWv_EthcA4HskA-0" value="Message" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="Q0GDuyQahfIBSUchTvks-1" vertex="1">
           <mxGeometry x="990" y="310" width="300" height="138" as="geometry" />
@@ -573,7 +573,7 @@
         </mxCell>
         <mxCell id="Xf2kcutXMbMdljYPR8I8-4" value="Uses" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xf2kcutXMbMdljYPR8I8-3">
           <mxGeometry x="-0.1903" y="-1" relative="1" as="geometry">
-            <mxPoint x="-1" y="-9" as="offset" />
+            <mxPoint x="-24" y="-45" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xf2kcutXMbMdljYPR8I8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=openThin;endFill=0;" edge="1" parent="Q0GDuyQahfIBSUchTvks-1" target="Xf2kcutXMbMdljYPR8I8-7">
