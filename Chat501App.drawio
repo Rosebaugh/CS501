@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-21T01:09:40.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="3I6GHIhnLHl6kwE7OTa9" version="14.6.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-04-21T01:10:27.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="tZBkG5MZd2aXcUuU3olS" version="14.6.3" type="github" pages="4">
   <diagram id="cjej1amVZtIiL1pQSHvf" name="ALL parts">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -1076,7 +1076,7 @@
           <mxGeometry x="240" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NAmDOxyFZIw_DYmoQnTe-1" value="OnOpen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jqSv8NzDbwhojnk6cnKY-1">
-          <mxGeometry x="240" y="321.25" width="80" height="40" as="geometry" />
+          <mxGeometry x="180" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NAmDOxyFZIw_DYmoQnTe-2" value="NewMessage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jqSv8NzDbwhojnk6cnKY-1">
           <mxGeometry x="400" y="200" width="80" height="40" as="geometry" />
@@ -1085,10 +1085,10 @@
           <mxGeometry x="80" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NAmDOxyFZIw_DYmoQnTe-4" value="GetFriends" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jqSv8NzDbwhojnk6cnKY-1">
-          <mxGeometry x="80" y="440" width="80" height="40" as="geometry" />
+          <mxGeometry x="60" y="400" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NAmDOxyFZIw_DYmoQnTe-5" value="GetChats" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jqSv8NzDbwhojnk6cnKY-1">
-          <mxGeometry x="240" y="440" width="80" height="40" as="geometry" />
+          <mxGeometry x="180" y="400" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NAmDOxyFZIw_DYmoQnTe-6" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="jqSv8NzDbwhojnk6cnKY-1" source="NAmDOxyFZIw_DYmoQnTe-0" target="NAmDOxyFZIw_DYmoQnTe-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1130,10 +1130,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a-8ZeS0iSn822K4Mm-WY-0" value="AddNewUser" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jqSv8NzDbwhojnk6cnKY-1">
-          <mxGeometry x="400" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="300" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kXHezNq7GibbmRoNkkdE-0" value="AddUser&lt;br&gt;ToChat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jqSv8NzDbwhojnk6cnKY-1">
-          <mxGeometry x="80" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="80" y="281.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tj40La_a2o93Bls8D4sv-0" value="GetUser&lt;br&gt;Status" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jqSv8NzDbwhojnk6cnKY-1">
           <mxGeometry x="400" y="280" width="80" height="40" as="geometry" />
