@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-01T19:07:06.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="gR_IzxJdYVkerb-ut90j" version="14.6.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-05-01T19:12:00.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="gaQVilm5Q-En-d3ppEH2" version="14.6.9" type="github" pages="4">
   <diagram id="cjej1amVZtIiL1pQSHvf" name="ALL parts">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -248,7 +248,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CPX_3aVWv_EthcA4HskA-16" value="Chat" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="Q0GDuyQahfIBSUchTvks-1" vertex="1">
-          <mxGeometry x="990" y="630" width="300" height="268" as="geometry" />
+          <mxGeometry x="990" y="630" width="300" height="294" as="geometry" />
         </mxCell>
         <mxCell id="CPX_3aVWv_EthcA4HskA-17" value="- DateCreated: DateTime" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CPX_3aVWv_EthcA4HskA-16" vertex="1">
           <mxGeometry y="26" width="300" height="26" as="geometry" />
@@ -256,29 +256,32 @@
         <mxCell id="CPX_3aVWv_EthcA4HskA-18" value="- Messages: List&lt;message&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CPX_3aVWv_EthcA4HskA-16" vertex="1">
           <mxGeometry y="52" width="300" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="CPX_3aVWv_EthcA4HskA-19" value="- Members: List&lt;string&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CPX_3aVWv_EthcA4HskA-16" vertex="1">
+        <mxCell id="loCiy2mra6z64-I2s2Q9-28" value="- Members: List&lt;string&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CPX_3aVWv_EthcA4HskA-16">
           <mxGeometry y="78" width="300" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="CPX_3aVWv_EthcA4HskA-19" value="+ ID: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CPX_3aVWv_EthcA4HskA-16" vertex="1">
+          <mxGeometry y="104" width="300" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="CPX_3aVWv_EthcA4HskA-20" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="CPX_3aVWv_EthcA4HskA-16" vertex="1">
-          <mxGeometry y="104" width="300" height="8" as="geometry" />
+          <mxGeometry y="130" width="300" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="CPX_3aVWv_EthcA4HskA-21" value="+ Chat(List&lt;string&gt;): Chat" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CPX_3aVWv_EthcA4HskA-16" vertex="1">
-          <mxGeometry y="112" width="300" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="CPX_3aVWv_EthcA4HskA-22" value="+ Chat(): Chat" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CPX_3aVWv_EthcA4HskA-16" vertex="1">
+        <mxCell id="CPX_3aVWv_EthcA4HskA-21" value="+ Chat(int, List&lt;string&gt;): Chat" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CPX_3aVWv_EthcA4HskA-16" vertex="1">
           <mxGeometry y="138" width="300" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="CPX_3aVWv_EthcA4HskA-23" value="+ GetDateCreated(): DateTime" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CPX_3aVWv_EthcA4HskA-16" vertex="1">
+        <mxCell id="CPX_3aVWv_EthcA4HskA-22" value="+ Chat(int): Chat" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CPX_3aVWv_EthcA4HskA-16" vertex="1">
           <mxGeometry y="164" width="300" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="CPX_3aVWv_EthcA4HskA-24" value="+ GetMembers(): List&lt;string&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CPX_3aVWv_EthcA4HskA-16" vertex="1">
+        <mxCell id="CPX_3aVWv_EthcA4HskA-23" value="+ GetDateCreated(): DateTime" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CPX_3aVWv_EthcA4HskA-16" vertex="1">
           <mxGeometry y="190" width="300" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="CPX_3aVWv_EthcA4HskA-26" value="+ NewMessage(Message): bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CPX_3aVWv_EthcA4HskA-16" vertex="1">
+        <mxCell id="CPX_3aVWv_EthcA4HskA-24" value="+ GetMembers(): List&lt;string&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CPX_3aVWv_EthcA4HskA-16" vertex="1">
           <mxGeometry y="216" width="300" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="CPX_3aVWv_EthcA4HskA-27" value="+ NewMember(username): bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CPX_3aVWv_EthcA4HskA-16" vertex="1">
+        <mxCell id="CPX_3aVWv_EthcA4HskA-26" value="+ NewMessage(Message): bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CPX_3aVWv_EthcA4HskA-16" vertex="1">
           <mxGeometry y="242" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CPX_3aVWv_EthcA4HskA-27" value="+ NewMember(username): bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CPX_3aVWv_EthcA4HskA-16" vertex="1">
+          <mxGeometry y="268" width="300" height="26" as="geometry" />
         </mxCell>
         <mxCell id="CPX_3aVWv_EthcA4HskA-28" value="Chat has a list of strings instead of having to send whole users to all members of the chat. Sending whole users is not only more data to be sent, but it is also less secure as it is unnecessarily sending passwords and usernames" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="Q0GDuyQahfIBSUchTvks-1" vertex="1">
           <mxGeometry x="1480" y="90" width="410" height="110" as="geometry" />
