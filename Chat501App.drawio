@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-05T04:18:53.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="aSONyXxX7dpaAo4jFb2b" version="14.6.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-05-05T04:34:35.840Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="koCAjxfp5cHFukWrB6sz" version="14.6.3" type="github" pages="4">
   <diagram id="cjej1amVZtIiL1pQSHvf" name="ALL parts">
-    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2200" math="0" shadow="0">
+    <mxGraphModel dx="3588" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="2200" math="0" shadow="0">
       <root>
         <mxCell id="Q0GDuyQahfIBSUchTvks-0" />
         <mxCell id="Q0GDuyQahfIBSUchTvks-1" parent="Q0GDuyQahfIBSUchTvks-0" />
@@ -1287,7 +1287,7 @@
             <mxPoint x="31" y="258" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7T9QTyivEdNuWx176KcQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;startArrow=open;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="Q0GDuyQahfIBSUchTvks-1" edge="1" source="Tm94xZzZIZTdlGL-Id3z-10">
+        <mxCell id="7T9QTyivEdNuWx176KcQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;startArrow=open;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="Q0GDuyQahfIBSUchTvks-1" source="Tm94xZzZIZTdlGL-Id3z-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="713" y="440" as="sourcePoint" />
             <mxPoint x="13" y="683" as="targetPoint" />
@@ -1373,7 +1373,7 @@
         <mxCell id="9rtZvs2rsSVfgs_xxV7X-7" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;delegate&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;ClientLogOut&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+&amp;nbsp; LogoutUser(): void&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;glass=0;" parent="Q0GDuyQahfIBSUchTvks-1" vertex="1">
           <mxGeometry x="34" y="710" width="123" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9rtZvs2rsSVfgs_xxV7X-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.148;exitY=1.1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="Q0GDuyQahfIBSUchTvks-1" target="9rtZvs2rsSVfgs_xxV7X-7" edge="1" source="rn6WB7KPgT7vL9ho2TLX-0">
+        <mxCell id="9rtZvs2rsSVfgs_xxV7X-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.148;exitY=1.1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="Q0GDuyQahfIBSUchTvks-1" source="rn6WB7KPgT7vL9ho2TLX-0" target="9rtZvs2rsSVfgs_xxV7X-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="72" y="590" as="sourcePoint" />
             <mxPoint x="61" y="812" as="targetPoint" />
@@ -1584,10 +1584,10 @@
             <mxPoint x="2548" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hknpv9YgEo-yyx2pbVCo-0" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;delegate&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;AddPersonFromChat&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ AddUserToChat(string) : bool&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;glass=0;" vertex="1" parent="Q0GDuyQahfIBSUchTvks-1">
+        <mxCell id="Hknpv9YgEo-yyx2pbVCo-0" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;delegate&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;AddPersonFromChat&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ AddUserToChat(string) : bool&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;glass=0;" parent="Q0GDuyQahfIBSUchTvks-1" vertex="1">
           <mxGeometry x="388.5" y="430" width="200" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="Hknpv9YgEo-yyx2pbVCo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Q0GDuyQahfIBSUchTvks-1" source="9rtZvs2rsSVfgs_xxV7X-3" target="Hknpv9YgEo-yyx2pbVCo-0">
+        <mxCell id="Hknpv9YgEo-yyx2pbVCo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="Q0GDuyQahfIBSUchTvks-1" source="9rtZvs2rsSVfgs_xxV7X-3" target="Hknpv9YgEo-yyx2pbVCo-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="318.5" y="450" as="sourcePoint" />
             <mxPoint x="359" y="490" as="targetPoint" />
@@ -1597,12 +1597,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hknpv9YgEo-yyx2pbVCo-2" value="Has a" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hknpv9YgEo-yyx2pbVCo-1">
+        <mxCell id="Hknpv9YgEo-yyx2pbVCo-2" value="Has a" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Hknpv9YgEo-yyx2pbVCo-1" vertex="1" connectable="0">
           <mxGeometry x="-0.3176" y="-1" relative="1" as="geometry">
             <mxPoint x="1" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hknpv9YgEo-yyx2pbVCo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=block;endFill=0;" edge="1" parent="Q0GDuyQahfIBSUchTvks-1" target="Hknpv9YgEo-yyx2pbVCo-0">
+        <mxCell id="Hknpv9YgEo-yyx2pbVCo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=block;endFill=0;" parent="Q0GDuyQahfIBSUchTvks-1" target="Hknpv9YgEo-yyx2pbVCo-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="403" y="1010" as="sourcePoint" />
             <mxPoint x="630" y="720" as="targetPoint" />
@@ -1612,7 +1612,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hknpv9YgEo-yyx2pbVCo-4" value="Impliments" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hknpv9YgEo-yyx2pbVCo-3">
+        <mxCell id="Hknpv9YgEo-yyx2pbVCo-4" value="Impliments" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Hknpv9YgEo-yyx2pbVCo-3" vertex="1" connectable="0">
           <mxGeometry x="-0.1903" y="-1" relative="1" as="geometry">
             <mxPoint x="31" y="-1" as="offset" />
           </mxGeometry>
@@ -1630,6 +1630,30 @@
           <mxGeometry x="-0.1903" y="-1" relative="1" as="geometry">
             <mxPoint x="31" y="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oYVLer5Dotpewinhwaeb-3" value="Classname" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="Q0GDuyQahfIBSUchTvks-1">
+          <mxGeometry x="-310" y="210" width="240" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="oYVLer5Dotpewinhwaeb-0" value="- ClientLogoutLg : ClientLogout" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oYVLer5Dotpewinhwaeb-3">
+          <mxGeometry y="26" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oYVLer5Dotpewinhwaeb-7" value="- AddContact : ClientAddContact" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oYVLer5Dotpewinhwaeb-3">
+          <mxGeometry y="52" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oYVLer5Dotpewinhwaeb-8" value="- RemoveContact : ClientRemoveContact" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oYVLer5Dotpewinhwaeb-3">
+          <mxGeometry y="78" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oYVLer5Dotpewinhwaeb-4" value="- NewChat : CreateChat" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oYVLer5Dotpewinhwaeb-3">
+          <mxGeometry y="104" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oYVLer5Dotpewinhwaeb-2" value="- commonFriends : GetFriendsInCommon&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oYVLer5Dotpewinhwaeb-3">
+          <mxGeometry y="130" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oYVLer5Dotpewinhwaeb-5" value="- RetrieveChat : OpenChatForm" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oYVLer5Dotpewinhwaeb-3">
+          <mxGeometry y="156" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oYVLer5Dotpewinhwaeb-6" value="AddPersonToChat : AddPersonFromChat" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oYVLer5Dotpewinhwaeb-3">
+          <mxGeometry y="182" width="240" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
